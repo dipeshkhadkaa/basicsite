@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Basic Blogging Site"
+themesDir = "./content"
+
+[params]
+  homeText = "This is Hugo from Scratch"
